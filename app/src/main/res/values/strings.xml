@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="mynama">Beben Prihartono</string>
+    <string name="business">Superb Android Developer</string>
+    <string name="nim">411211114</string>
+    <string name="email_text">411211114@mahasiswa.undira.ac.id</string>
+    <string name="share_text">411211114@mahasiswa.undira.ac.id</string>
+</resources>
